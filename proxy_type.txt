@@ -1,1 +1,1 @@
-SOCKS5
+socks5
