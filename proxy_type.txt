@@ -1,1 +1,1 @@
-https
+socks5
